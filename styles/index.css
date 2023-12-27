@@ -1,0 +1,47 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0;
+  background-color: #f0f0f0;
+}
+
+.calculator {
+  width: 500px;
+  height: 685px;
+  background-color: #4F5054;
+  border: 2px solid #000;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+canvas {
+  width: 100%;
+  height: auto;
+  border-radius: 5px;
+  margin-bottom: 10px;
+}
+
+/* Styling of top left Dots */
+
+.dots span {
+  margin: 10px 5px;
+  height: 25px;
+  width: 25px;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+.dot1 {
+  background-color: #FF5F58;
+}
+
+.dot2 {
+  background-color: #FF9F0C;
+}
+
+.dot3 {
+  background-color: #29C83F;
+}
+
+/* Styling of top left Dots */
