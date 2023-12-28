@@ -28,7 +28,7 @@ The project includes a `.gitignore` file to exclude unnecessary files from versi
 
 # Instructions to run the Project
 
-1. Take a Clone of the repository - `git@github.com:info-6150-fall-2023/assignment-7-Agnichaturvedi.git`
+1. Take a Clone of the repository - `git@github.com:Agnii555/canvas-calculator.git`
 
 ![Alt page design](/images/clone.png)
 
